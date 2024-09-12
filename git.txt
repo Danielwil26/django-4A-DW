@@ -1,0 +1,5 @@
+git add <ścierzka pliku>
+gir add . - dodaje wszystkie zmienione pliki
+git commit 
+git commit -n "opis comita"
+git push  - wysyla wszystkie pliki do serwera centralengo (origin)
